@@ -3,3 +3,4 @@ Git is free software.
 GIT let me happy.
 learn git for job.
 Git has a mutable index called stage.
+Our boss is good and rich.
